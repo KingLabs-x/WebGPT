@@ -8,7 +8,7 @@
 This is just a base template, you will need to develop it further to fit your needs.
 ## Getting Started
 1. Sign up for an API Key on the OpenAI website ➜ https://beta.openai.com/account/api-keys
-2. Paste your API Key into **script.js** on **line: 6**
+2. Paste your API Key into **script.js** on line: `6`
 ```javascript
 const apiKey = ''; // Your OpenAI API Key
 ```
@@ -16,7 +16,7 @@ const apiKey = ''; // Your OpenAI API Key
 **Please note that you will need to secure your API key in the code.**
 
 ## How do i customize WebGPT for my specific needs?
-Edit the **prompt = []** in **script.js**.
+Edit the `prompt = []` in **script.js**.
 ```javascript
 let prompt = [
   `You are a web chat bot inside of the website: https://example.com`,
