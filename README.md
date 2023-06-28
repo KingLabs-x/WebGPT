@@ -5,9 +5,9 @@
 - Customizable to fit the specific needs.
 - Natural language processing to understand and respond to user queries.
 
-This is just a base template, you will need to develop it further to fit your needs.
+This is just a base template, you will need to develop it further.
 ## Getting Started
-1. Sign up for an API Key on the OpenAI website ➜ https://beta.openai.com/account/api-keys
+1. Sign up for an API Key on the OpenAI website ➜ https://platform.openai.com/account/api-keys
 2. Paste your API Key into **script.js** on line: `6`
 ```javascript
 const apiKey = ''; // Your OpenAI API Key
